@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 import inquirer from "inquirer";
 let mybalance = 10000; //Dollar
 const mypin = 1234;
